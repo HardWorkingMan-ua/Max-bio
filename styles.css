@@ -281,6 +281,7 @@ body {
     font-weight: 900;
     color: #7aa2f7;
     user-select: none;
+    z-index: 0;
 }
 
 .sidebar {
