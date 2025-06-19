@@ -229,7 +229,6 @@ body {
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 10px;
-    z-index: 100;
 }
 
 .friend {
@@ -241,13 +240,11 @@ body {
     text-decoration: none;
     color: #c0caf5;
     cursor: pointer;
-    z-index: 100;
 }
 
 .friend:hover {
     background: #bb9af7;
     transform: scale(1.05);
-    z-index: 100;
 }
 
 .contact-btn {
@@ -281,7 +278,6 @@ body {
     font-weight: 900;
     color: #7aa2f7;
     user-select: none;
-    z-index: 0;
 }
 
 .sidebar {
